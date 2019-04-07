@@ -15,4 +15,6 @@ Week2 Logistic Regression as a Neural Net
 - Video 10: 80min
 - Programming assignments 6
 
+# Google Machine Learning Crash Course in Tensorflow: https://developers.google.com/machine-learning/crash-course/ml-intro
+
 # Stanford CS224N NLP with Deep Learning: https://www.youtube.com/watch?v=5vcj8kSwBCY
