@@ -2,8 +2,7 @@
 
 ## Coursera Neural Networks and Deep Learning: https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome
 
-Start: 2019-04-06 End: 4 Weeks
-
+Start: 2019-04-06 End: 4 Weeks,
 Per day: 30min Learn, 30min Code exercise
 
 Week1 : 
