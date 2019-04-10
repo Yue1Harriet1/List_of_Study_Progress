@@ -17,7 +17,7 @@ Week2 Logistic Regression as a Neural Net
 - Video 10: 80min
 - Programming assignments 6
 
-_WED 2019-04-10:_ Video 4 Gradient Descent, Video 5 Derivatives
+  _WED 2019-04-10:_ Video 4 Gradient Descent, Video 5 Derivatives
 
 
 
